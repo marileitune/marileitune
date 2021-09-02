@@ -4,7 +4,7 @@
 
 I'm a passionate person about technology with a background in law. After doing a postgraduate degree in Digital Law, I decided to study Web Development.
   
-And finally I became a Web Developer 🎉.
+And finally, I became a Web Developer 🎉.
 
 
 
